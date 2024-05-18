@@ -9,4 +9,6 @@ StudyShine is the delivery of learning and training through digital resources. S
 4. Course Access: Grant students access to course materials upon successful purchase of a specific course, which has both methods: (a) RazorPay API and (b) Card Payment with OTP verification.
 5. Payment Receipt Retrieval: Enable students to download or print system-generated payment receipts for their records.
 6. Certificate Download: Enable students to download course completion certificates upon successfully finishing a course.
-7. Account Management: Allow students to change their account passwords and edit personal information as needed.Lets stack up some files...
+7. Account Management: Allow students to change their account passwords and edit personal information as needed.
+   
+Mail me at mugdhanil117@gmail.com for any queries and collaborations. Thanks.
