@@ -1,0 +1,9 @@
+.navbar-brand {
+    font-family: "Titillium Web", sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    color: #fff;
+}
+container-fluid .bg-success{
+    background: #ab3366;
+}
